@@ -1,4 +1,4 @@
-title: Course Title Here
+title: Deploying Machine Learning Models Using Python Flask
 description: Course description goes here.
 programming_language: python
 from: python-base-prod:v1.0.2
